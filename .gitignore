@@ -1,4 +1,7 @@
-# Mac办公软件三件套
+# Mac办公三件套
 *.pages
 *.numbers
 *.keynote
+
+# Microsoft办公三件套
+*.xlsx
