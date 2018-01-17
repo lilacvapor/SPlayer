@@ -5,3 +5,6 @@
 
 # Microsoft办公三件套
 *.xlsx
+
+# SKETCH文件
+*.sketch
