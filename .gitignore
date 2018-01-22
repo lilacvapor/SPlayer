@@ -1,10 +1,13 @@
 # Mac办公三件套
 *.pages
 *.numbers
-*.keynote
+*.key
 
 # Microsoft办公三件套
 *.xlsx
 
 # SKETCH文件
+/sketchs/
 *.sketch
+
+*.m4a
